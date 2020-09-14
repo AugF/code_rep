@@ -1,0 +1,5 @@
+4
+1 z a
+1 a z
+2 az bb
+3 bbb bbb

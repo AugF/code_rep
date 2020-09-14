@@ -1,0 +1,8 @@
+res:a
+res:aa
+res:aabb
+res:ab
+res:b
+res:bb
+res:a
+res:ab

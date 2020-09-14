@@ -1,0 +1,17 @@
+8
+aabb
+1
+aabb
+2
+aabb
+4
+aabb
+5
+aabb
+7
+aabb
+8
+a
+1
+ab
+2
